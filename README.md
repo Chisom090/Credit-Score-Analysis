@@ -27,5 +27,4 @@ This project focuses on credit card predictive analysis, explorative descriptive
 - **Contact:** chisoeriobu428@gmail.com
 
 
-## License
-This project is licensed under the [License Name] License - see the LICENSE file for details.
+
